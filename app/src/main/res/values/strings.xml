@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Bookface</string>
+    <string name="user_image">User Image</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="birthday_dd_mm_yyyy">Birthday DD/MM/YYYY</string>
+    <string name="submit">Submit</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="bookface">Bookface</string>
+
+    <string name="error_invalid_image">Invalid image file</string>
+    <string name="error_invalid_register_password">Password must be between 4 and 8 digits long and include at least one numeric digit.</string>
+    <string name="error_invalid_name">Full Name must contain first and last name.\nFirst letter in each word should be capital</string>
+    <string name="error_invalid_date">Invalid date.\n Date format should be DD/MM/YYYY. \nBirth year should be 1900–2018</string>
+    <string name="error_invalid_email">Invalid email address.</string>
+    <string name="error_invalid_phone">Invalid phone number. Number must contain 10 digits</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="user_details">User Details:</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="dial">Dial</string>
+    <string name="logout">Logout</string>
+    <string name="signOut">Sign Out</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone">Phone</string>
+    <string name="group_name">by: Rivka Ramaty\n\t\t\tKobi Shpak\n\t\t\tEran Atia\n\t\t\tDaniel Arami</string>
+
+    <string name="facebook_app_id">269659903893075</string>
+    <string name="fb_login_protocol_scheme">fb269659903893075</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="login">Login</string>
+    <string name="init_sign_in"><![CDATA[InitSignIn==>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></string>
+    <string name="display_on_create"><![CDATA[Display==> OnCreate!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]]></string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="password_reset_succeded">Password reset link sent to your mail</string>
+    <string name="email_not_found">Email was not found</string>
+    <string name="please_enter_email">Email is invalid, please enter your user email in the email field</string>
+    <string name="sign_in_anonymously">Skip sign in</string>
+    <string name="forgot_password_text">Please enter your email\na password reset link will send to you</string>
+    <string name="reset_password">Password Reset</string>
+    <string name="review_details">[Review Details]</string>
+    <string name="reviewer_name">[reviewer mail]</string>
+    <string name="book_name">[BOOK NAME]</string>
+    <string name="author">[author]</string>
+    <string name="genere">[genere]</string>
+    <string name="description">[Description]</string>
+    <string name="x_x">[$X.X]</string>
+    <string name="todo">TODO</string>
+    <string name="write_a_review">Write a review</string>
+    <string name="name_frame">[Name]</string>
+    <string name="artist">[Artist]</string>
+    <string name="genre">[Genre]</string>
+    <string name="buy_x">[BUY $X]</string>
+    <string name="book_title">Search For A Book Title</string>
+    <string name="search">Search</string>
+    <string name="order_by">Order By:</string>
+    <string name="filter_by">Filter By:</string>
+    <string name="ratings">Ratings</string>
+    <string name="price">Price</string>
+    <string name="settings">Settings</string>
+    <string name="download">Download</string>
+    <string name="purchased_only">Purchased only:</string>
+    <string name="add_review">Add Review</string>
+
+
+    <string-array name="order_options">
+        <item>Price: Low to High</item>
+        <item>Price: High to Low</item>
+        <item>Rating: High to Low</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Rating: Top rated only</item>
+        <item>Genre: Thriller</item>
+        <item>Genre: Horror</item>
+        <item>Genre: Comedy</item>
+        <item>Genre: Fantasy</item>
+        <item>Genre: Historical</item>
+        <item>Genre: Sci-Fi</item>
+        <item>Genre: Romantic</item>
+        <item>Genre: Drama</item>
+    </string-array>
+
+
+</resources>
